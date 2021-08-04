@@ -1,2 +1,2 @@
-package annotation;public @interface Test {
+package annotation;public class Test {
 }
